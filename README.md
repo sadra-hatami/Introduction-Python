@@ -224,6 +224,6 @@ Your support helps more students find these lessons.
 
 ---
 
+<div align="center">
 ## Designed & Developed with ❤️ for the learner community of Iran and the world by **Sadra Hatami**
-
-*Educational content from Stanford Data Ocean (SDO).*
+</div>
