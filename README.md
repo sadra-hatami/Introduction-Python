@@ -18,6 +18,7 @@ A beginner-friendly collection of hands-on Python lessons covering **data types*
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Education](https://img.shields.io/badge/Level-Beginner-orange?style=for-the-badge)
+[![Education](https://img.shields.io/badge/Focus-Python%20Education-4CAF50?style=for-the-badge)]()
 ![Source](https://img.shields.io/badge/Source-Stanford%20Data%20Ocean%20(SDO)-8C1515?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)
 
