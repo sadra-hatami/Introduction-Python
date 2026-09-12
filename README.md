@@ -60,7 +60,7 @@ The lessons start from the simplest ideas — numbers, strings, variables, and b
 
 Each notebook includes short explanations, runnable examples, and practice exercises so you can learn by doing, not only by reading.
 
-> **Tagline:** *A compact, hands-on introduction to Python using Jupyter notebooks from Stanford Data Ocean (SDO).*
+> **Tagline:** *A practical Python learning repository covering data types, data structures, and functions through interactive Jupyter Notebooks.*
 
 ---
 
