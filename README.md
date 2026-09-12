@@ -1,6 +1,6 @@
 <div align="center">
 
-# Introduction to Python
+# Training Python Programming
 # 🐍📘✨
 
 ### Interactive Jupyter Notebooks for Learning Python Fundamentals
