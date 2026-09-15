@@ -78,6 +78,7 @@ This GitHub repository is maintained by **Sadra Hatami** as a convenient place t
 
 This course follows the same SDO path as:
 
+- [Pandas Library Training](https://github.com/sadra-hatami/Pandas-Library-Training)
 - [R Programming Training](https://github.com/sadra-hatami/R-Programming-Training)
 - [AI and Machine Learning Training](https://github.com/sadra-hatami/AI-ML-Training)
 - [Bioinformatics Training](https://github.com/sadra-hatami/Bioinformatics-Training)
